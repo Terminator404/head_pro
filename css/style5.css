@@ -12,7 +12,7 @@
 .mj-nav-child-ul{margin:5px;padding: 0;list-style: none;text-align: left}
 .mj-nav-child-ul a{font-size: 14px;text-decoration:none;text-align: center;display: block;line-height:20px;  padding: 3px;border-bottom:1px dotted #ddd;color: #666; }
 .mj-nav-child-ul a:hover{background-color:#f1f1f1}
-.PC .mj-logo{height: 65px;margin-top: 2px;width: 275px;margin-left: 5px}
+.PC .mj-logo img{margin-top: 5px;width: 275px;height: 61px;margin-left: 5px}
 .MC .mj-logo img{margin-top: 10px;margin-left: 10px;}
 .MC .mj-logo img{max-width: 80%}
 .MC .mj-nav-child {margin: 0;border: none; position: relative;top: 0;left: 0;width: 100%;}
